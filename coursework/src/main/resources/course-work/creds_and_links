@@ -1,0 +1,9 @@
+Kanboard - http://localhost/login    or (http://127.0.0.1/login)
+login - admin
+password - admin
+API key for api tests: Settings -> API
+
+Jenkins http://localhost:8080  (should redirect you to http://localhost:8080/login?from=%2F)
+Administrator password can be found in the terminal where you executed command 'docker compose up'
+
+
